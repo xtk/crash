@@ -1,0 +1,4 @@
+crash
+=====
+
+The crash redirect.
